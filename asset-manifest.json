@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviesportal/static/css/main.a39d1840.chunk.css",
-    "main.js": "/moviesportal/static/js/main.5c6b52ad.chunk.js",
-    "main.js.map": "/moviesportal/static/js/main.5c6b52ad.chunk.js.map",
+    "main.js": "/moviesportal/static/js/main.f0a54f8b.chunk.js",
+    "main.js.map": "/moviesportal/static/js/main.f0a54f8b.chunk.js.map",
     "runtime-main.js": "/moviesportal/static/js/runtime-main.9f70329d.js",
     "runtime-main.js.map": "/moviesportal/static/js/runtime-main.9f70329d.js.map",
     "static/js/2.b21e0366.chunk.js": "/moviesportal/static/js/2.b21e0366.chunk.js",
     "static/js/2.b21e0366.chunk.js.map": "/moviesportal/static/js/2.b21e0366.chunk.js.map",
     "index.html": "/moviesportal/index.html",
-    "precache-manifest.7851a316641175e946be9f0256aa0414.js": "/moviesportal/precache-manifest.7851a316641175e946be9f0256aa0414.js",
+    "precache-manifest.bef3d6bc4192e763c7a12bca31f05eab.js": "/moviesportal/precache-manifest.bef3d6bc4192e763c7a12bca31f05eab.js",
     "service-worker.js": "/moviesportal/service-worker.js",
     "static/css/main.a39d1840.chunk.css.map": "/moviesportal/static/css/main.a39d1840.chunk.css.map",
     "static/js/2.b21e0366.chunk.js.LICENSE.txt": "/moviesportal/static/js/2.b21e0366.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f70329d.js",
     "static/js/2.b21e0366.chunk.js",
     "static/css/main.a39d1840.chunk.css",
-    "static/js/main.5c6b52ad.chunk.js"
+    "static/js/main.f0a54f8b.chunk.js"
   ]
 }

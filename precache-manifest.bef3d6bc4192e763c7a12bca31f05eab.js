@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab77c5305d49003fa04c9e8742ad15e5",
+    "revision": "0840e291785f892655c6d50da22f1e68",
     "url": "/moviesportal/index.html"
   },
   {
-    "revision": "f38ef108eabccba88461",
+    "revision": "8e80b178cb3a56a5094a",
     "url": "/moviesportal/static/css/main.a39d1840.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviesportal/static/js/2.b21e0366.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f38ef108eabccba88461",
-    "url": "/moviesportal/static/js/main.5c6b52ad.chunk.js"
+    "revision": "8e80b178cb3a56a5094a",
+    "url": "/moviesportal/static/js/main.f0a54f8b.chunk.js"
   },
   {
     "revision": "b7340272353522046472",
